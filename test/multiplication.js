@@ -3,8 +3,8 @@
 import { expect } from 'chai';
 
 // Simple multiplication function
-function multiply(a, b) {
-    return a * b;
+function multiply(num1, num2) {
+    return num1 * num2;
 }
 
 // Mocha test suite
